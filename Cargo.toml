@@ -1,0 +1,11 @@
+[package]
+name = "budalerts-desktop"
+version = "0.1.0"
+description = "Native keyboard shortcut registration for the Budalerts desktop shell"
+edition = "2021"
+license = "UNLICENSED"
+publish = false
+
+[lib]
+name = "budalerts_desktop"
+path = "src/lib.rs"
